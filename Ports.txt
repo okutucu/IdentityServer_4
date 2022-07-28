@@ -2,4 +2,4 @@ AuthServer -> https://localhost:7053
 Client_1 -> https://localhost:7192
 Client_2 -> https://localhost:7206
 Api_1 -> https://localhost:7144
-Api_2 -> https://localhost:7081;
+Api_2 -> https://localhost:7081
